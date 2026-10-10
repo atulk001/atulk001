@@ -65,7 +65,7 @@ motto: "Build. Break. Learn. Repeat."
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=atulk001&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
@@ -76,7 +76,7 @@ motto: "Build. Break. Learn. Repeat."
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/atulk001/atulk001/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
 
 </div>
 
