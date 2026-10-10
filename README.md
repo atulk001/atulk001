@@ -59,9 +59,9 @@ motto: "Build. Break. Learn. Repeat."
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=atulk001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulk001&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <br/>
 
