@@ -59,18 +59,20 @@ motto: "Build. Break. Learn. Repeat."
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=atulk001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api?username=atulk001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+     alt="GitHub stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulk001&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="180"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulk001&layout=compact&theme=tokyonight&hide_border=true"
+     alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=atulk001&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=atulk001&theme=tokyonight&hide_border=true"
+     alt="GitHub streak"/>
 
 </div>
-
----
-
 
 ## 🐍 Contribution Activity
 
